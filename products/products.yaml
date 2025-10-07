@@ -28,7 +28,7 @@ spec:
           id: ID!
           name: String
           description: String
-          category: String
+#          category: String
         }
         
         type Query {
